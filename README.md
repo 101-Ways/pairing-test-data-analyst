@@ -17,7 +17,7 @@ we would like to explore and process the flights data in order to answer the fol
 - what are the chances of planes flying out of JFK in poor weather getting delayed?
 
 
-### The input data sources are comprised of (csv files in data.tar.gz):
+### The input data sources are comprised of (csv and json files in data.tar.gz):
 
 - airlines
 - airports
