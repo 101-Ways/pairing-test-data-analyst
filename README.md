@@ -4,7 +4,7 @@ Data Analyst Pairing Exercise
 
 # The Task
 
-The task involves ingesting, cleaning and analysing some flight data using the provided data sources (CSV files). 
+The task involves ingesting, cleaning and analysing some flight data using the provided data sources (CSV & JSON files). 
 
 
 ### Tasks:
