@@ -1,4 +1,3 @@
-# pairing-test-data-analyst
 Data Analyst Pairing Exercise
 ==============================
 
