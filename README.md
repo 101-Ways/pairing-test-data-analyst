@@ -12,7 +12,7 @@ The task involves ingesting, cleaning and analysing some flight data using the p
 we would like to explore and process the flights data in order to answer the following questions:
 - how much time does the flights table cover ?
 - how many departure cities the flight database covers ?
-- which airplane manufacturer incurred the most delays in the analysis period ? (Explain how you decided upon the interpretation of 'most delays' and the inplications on this on your results)
+- which airplane manufacturer incurred the most delays in the analysis period ? (Explain how you decided upon the interpretation of 'most delays' and the implications on this on your results)
 - what are the two most connected cities? (Again, explain how you arrived at the definition of 'most connected')
 - what are the chances of planes flying out of JFK in poor weather getting delayed?
 
